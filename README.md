@@ -1,6 +1,4 @@
-# Coverage
-
-代码覆盖率demo。
+# jacoco demo
 
 使用了自己写的binary-tree-printer来测试。
 
